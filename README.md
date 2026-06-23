@@ -1,9 +1,8 @@
-
 # AI Internship & Career Readiness Assistant
 
 ## Overview
 
-AI Internship & Career Readiness Assistant is a Streamlit-based web application that helps students evaluate internship opportunities, identify skill gaps, generate learning roadmaps, and receive personalized recommendations using Google Gemini AI.
+AI Internship & Career Readiness Assistant is a Streamlit-based web application that helps students evaluate internship opportunities, identify skill gaps, generate personalized learning roadmaps, and receive career readiness recommendations using Google Gemini AI.
 
 ## Features
 
@@ -11,7 +10,7 @@ AI Internship & Career Readiness Assistant is a Streamlit-based web application 
 * Internship Classification
 * Internship Analysis
 * Skill Gap Analysis
-* Learning Roadmap Generation
+* Personalized Learning Roadmap
 * Learning Resource Recommendations
 * Career Readiness Evaluation
 
@@ -24,21 +23,27 @@ AI Internship & Career Readiness Assistant is a Streamlit-based web application 
 
 ## Installation
 
-1. Clone the repository
+### 1. Clone the Repository
 
-2. Install dependencies
+```bash
+git clone https://github.com/shreyadhanve/AI-Internship-Career-Readiness-Assistant.git
+```
+
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a config.py file
+### 3. Create Configuration File
+
+Create a file named `config.py`
 
 ```python
 API_KEY = "YOUR_GEMINI_API_KEY"
 ```
 
-4. Run the application
+### 4. Run the Application
 
 ```bash
 streamlit run app.py
@@ -50,7 +55,9 @@ streamlit run app.py
 * LinkedIn Profile Integration
 * Company Verification Module
 * Mobile Application Support
-=======
-# AI-Internship-Career-Readiness-Assistant
-AI-powered platform for internship evaluation, skill gap analysis, and career readiness assessment.
+* Personalized Career Recommendations
+* Advanced Analytics Dashboard
 
+## Author
+
+Shreya Dhanve
