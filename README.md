@@ -1,3 +1,4 @@
+
 # AI Internship & Career Readiness Assistant
 
 ## Overview
@@ -49,3 +50,7 @@ streamlit run app.py
 * LinkedIn Profile Integration
 * Company Verification Module
 * Mobile Application Support
+=======
+# AI-Internship-Career-Readiness-Assistant
+AI-powered platform for internship evaluation, skill gap analysis, and career readiness assessment.
+
